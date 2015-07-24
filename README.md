@@ -1,2 +1,2 @@
 # cookbook
-Contiene recetas para compartir
+Contiene recetas para compartir con mis amigos
